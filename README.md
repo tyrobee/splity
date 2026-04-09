@@ -6,9 +6,9 @@ This is my low profile split keyboard. I made this because I really wanted to ma
 ## Schematics
 ![W1](PHOTOS/W1.png)
 
-![W2](PHOTOS/W2.png)
-
 ![W3](PHOTOS/W3.png)
+
+![W2](PHOTOS/W2.png)
 ## Pcb
 ![P1](PHOTOS/P1.png)
 
