@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "84fc5f43-cc48-4c9a-8e66-78375259861b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 50.165 33.655)
+		(size 28.575 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0d265e0a-c39a-494d-aa60-6f642baae709")
+		(property "Sheetname" "Left"
+			(at 50.165 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "left  sheet.kicad_sch"
+			(at 50.165 58.3696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Tao Te Ching"
+				(path "/84fc5f43-cc48-4c9a-8e66-78375259861b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 98.425 33.655)
+		(size 31.115 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "774c4cad-5f88-4175-99c1-6b6d60cc7b91")
+		(property "Sheetname" "Right"
+			(at 98.425 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Right Sheet.kicad_sch"
+			(at 98.425 58.3696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 98.425 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Tao Te Ching"
+				(path "/84fc5f43-cc48-4c9a-8e66-78375259861b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
